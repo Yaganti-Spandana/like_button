@@ -76,6 +76,9 @@ Learning CSS animations
 
 "Frontend devs love this animation 🤯"
 
+<img width="314" height="228" alt="Screenshot 2026-01-19 181145" src="https://github.com/user-attachments/assets/01fcb73c-a58f-4108-86f0-8646b941a4f3" />
+
+
 📜 License
 
 Free to use for learning, content creation, and portfolios. Attribution appreciated but not required.
